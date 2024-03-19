@@ -21,9 +21,11 @@ The data is provided in a CSV format with the following columns:
 
 ## Eigh-shaped Circuit (Polynomial vs PMM)
 
-![Eight](fig/ApproximatedVsPmmEight.png)
+![Eight](docs/fig/ApproximatedVsPmmEight.png)
 
 
 ## Circle Circuit (Polynomial vs PMM)
 
-![Circle](fig/ApproximatedVsPmmCircle.png)
+![Circle](docs/fig/ApproximatedVsPmmCircle.png)
+
+## [**Video**](docs/video/VideoExperiments.mp4)
