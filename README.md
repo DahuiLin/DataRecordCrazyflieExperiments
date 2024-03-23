@@ -28,4 +28,14 @@ The data is provided in a CSV format with the following columns:
 
 ![Circle](docs/fig/ApproximatedVsPmmCircle.png)
 
-## [**Video**](docs/video/VideoExperiments.mp4)
+## Videos
+
+- **Article experiments**
+<video controls>
+    <source src="docs/video/VideoExperiments.mp4" type="video/mp4">
+</video>
+
+- **Online planning**
+<video controls>
+    <source src="docs/video/real_time_planning.mp4" type="video/mp4">
+</video>
