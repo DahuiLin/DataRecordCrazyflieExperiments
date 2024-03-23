@@ -30,16 +30,12 @@ The data is provided in a CSV format with the following columns:
 
 ## Videos
 
-- **Article experiments**
-
-<video controls>
-    <source src="https://github.com/dahui/dataRecorded/blob/main/docs/video/real_time_planning.mp4" type="video/mp4">
-</video>
+- [**Article experiments**](docs/video/VideoExperiments.mp4) 
 <!-- <video controls>
     <source src="docs/video/VideoExperiments.mp4" type="video/mp4">
 </video> -->
 
-- **Online planning**
-<video controls>
+- [**Online planning**](docs/video/real_time_planning.mp4) 
+<!-- <video controls>
     <source src="docs/video/real_time_planning.mp4" type="video/mp4">
-</video>
+</video> -->
