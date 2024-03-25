@@ -32,7 +32,7 @@ The data is provided in a CSV format with the following columns:
 
 # Article Experiments
 
-- [**Watch Online**](https://uma365-my.sharepoint.com/:v:/g/personal/0619348134_uma_es/Ebtii275ecVKsaUWHCuiqxMBczokZUhXqrmIC4-2T8rIug?e=ByL2ja&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- [**Watch Online**](https://youtu.be/l7ZtUI-oYCA)
   
 - [**Download Video**](docs/video/VideoExperiments.mp4)
 <!-- <video controls>
@@ -42,7 +42,7 @@ The data is provided in a CSV format with the following columns:
 
 # Onboard planning
 
-- [**Watch Online**](https://uma365-my.sharepoint.com/:v:/g/personal/0619348134_uma_es/EcaimY1DYhVFge4UI0j49LUBbCxry97zIFrG00IRNSvnzA?e=JaoaRs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) 
+- [**Watch Online**](https://youtu.be/7BG9GC9CxUc) 
 
 - [**Download Video**](docs/video/VideoExperiments.mp4)
 <!-- <video controls>
