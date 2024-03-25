@@ -30,12 +30,21 @@ The data is provided in a CSV format with the following columns:
 
 ## Videos
 
-- [**Article experiments**](docs/video/VideoExperiments.mp4) 
+# Article Experiments
+
+- [**Watch Online**](https://uma365-my.sharepoint.com/:v:/g/personal/0619348134_uma_es/Ebtii275ecVKsaUWHCuiqxMBczokZUhXqrmIC4-2T8rIug?e=ByL2ja&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+  
+- [**Download Video**](docs/video/VideoExperiments.mp4)
 <!-- <video controls>
     <source src="docs/video/VideoExperiments.mp4" type="video/mp4">
 </video> -->
 
-- [**Online planning**](docs/video/real_time_planning.mp4) 
+
+# Onboard planning
+
+- [**Watch Online**](https://uma365-my.sharepoint.com/:v:/g/personal/0619348134_uma_es/EcaimY1DYhVFge4UI0j49LUBbCxry97zIFrG00IRNSvnzA?e=JaoaRs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) 
+
+- [**Download Video**](docs/video/VideoExperiments.mp4)
 <!-- <video controls>
     <source src="docs/video/real_time_planning.mp4" type="video/mp4">
 </video> -->
