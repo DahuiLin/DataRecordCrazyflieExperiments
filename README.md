@@ -39,12 +39,11 @@ The data is provided in a CSV format with the following columns:
     <source src="docs/video/VideoExperiments.mp4" type="video/mp4">
 </video> -->
 
-
-# Onboard planning
+<!--# Onboard planning
 
 - [**Watch Online**](https://youtu.be/7BG9GC9CxUc) 
 
-- [**Download Video**](docs/video/VideoExperiments.mp4)
+- [**Download Video**](docs/video/VideoExperiments.mp4) -->
 <!-- <video controls>
     <source src="docs/video/real_time_planning.mp4" type="video/mp4">
 </video> -->
